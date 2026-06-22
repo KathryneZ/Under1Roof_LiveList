@@ -1,16 +1,21 @@
 # UnderOneRoof
 
-> A shared shopping list for households, designed for people living together.
+> A shared shopping list for people living together.
 
 UnderOneRoof is a mobile-first tool that helps families, roommates, dorm mates and couples coordinate household purchases in one place.
 
-The idea came from a simple observation: purchasing everyday essentials is rarely difficult, but keeping track of them often is. A grocery request sits in a WhatsApp message, a preferred brand is buried in a photo, and a reminder is mentioned in passing, only to be forgotten later.
+In many households, these purchases are managed through messaging apps, photos and verbal reminders. Although these channels work for individual requests, information becomes difficult to retrieve once it is distributed across multiple conversations. Product preferences are forgotten, duplicate purchases occur, and household members have limited visibility into what has already been bought. As a result, the responsibility of keeping track of these details often falls onto one person.
 
-Over time, these small interruptions turn one person's memory into the household's default system.
+UnderOneRoof introduces a shared list that consolidates this information into a single location. Household members can add items, assign purchase priority, attach reference images and keep track of completed purchases, while preserving the informality of existing routines. The product is intended to support everyday coordination without requiring users to adopt a new workflow.
 
-UnderOneRoof brings these requests into a single, shared space. Household members can add items, assign purchase priority, attach reference images, and keep track of what has already been bought.
+## Features
 
-While built around a shared shopping list, the product is ultimately about making household coordination simpler: reducing ambiguity, avoiding duplicate purchases, and making shared living more effortless.
+* Shared household shopping lists
+* Purchase prioritisation
+* Product reference images
+* Activity history
+* Bilingual support (English / 中文)
+* Mobile-first interface
 
 ## Use Cases
 
@@ -24,16 +29,20 @@ Manage shared snacks, toiletries and cleaning supplies without relying on group 
 
 ### Roommates
 
-Avoid duplicate purchases and keep track of replenishment needs.
+Reduce duplicate purchases and keep track of replenishment needs.
 
 ### Couples
 
-Maintain a lightweight system for recurring household essentials.
+Maintain a lightweight system for recurring household purchases.
 
-## Design Principles
+## Design Considerations
 
-* Mobile-first
-* Bilingual (English / Chinese)
+* Mobile-first interactions
 * Multi-generational usability
-* Visual-first communication through product images
-* Low-friction interactions
+* Bilingual localisation
+* Visual communication through product images
+* Low-friction information capture
+
+---
+
+Live Demo: [Netlify URL]
