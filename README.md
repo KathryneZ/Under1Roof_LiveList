@@ -45,4 +45,4 @@ Maintain a lightweight system for recurring household purchases.
 
 ---
 
-Live Demo: [Netlify URL]
+**Live Demo:** [Open UnderOneRoof](https://venerable-lily-6c19cd.netlify.app/)
